@@ -108,21 +108,17 @@ Experimentos com interfaces, aplicações, autenticação, banco de dados e dese
 
 <div align="center">
 
-<a href="https://github.com/Eryckgk">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FEryckgk&query=%24.public_repos&label=Reposit%C3%B3rios&style=for-the-badge&logo=github&color=1E3A8A" alt="Repositórios públicos" />
+<img src="https://img.shields.io/github/followers/Eryckgk?label=Seguidores&style=for-the-badge&logo=github&color=1E3A8A" alt="Seguidores" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FEryckgk&query=%24.following&label=Seguindo&style=for-the-badge&logo=github&color=1E3A8A" alt="Seguindo" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Eryckgk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=FFFFFF&locale=pt-br"/>
+<h3>Linguagens mais usadas</h3>
 
-</a>
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eryckgk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=FFFFFF&hide_title=true" alt="Linguagens mais usadas por Eryckgk" />
 
-<a href="https://github.com/Eryckgk">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eryckgk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=FFFFFF&locale=pt-br"/>
-
-</a>
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Eryckgk&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=EF4444&currStreakLabel=60A5FA"/>
+<p>
+      <img width="90%" src="https://streak-stats.demolab.com/?user=Eryckgk&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=EF4444&currStreakLabel=60A5FA&locale=pt" alt="Sequência de contribuições no GitHub" />
+</p>
 
 </div>
 
@@ -132,9 +128,7 @@ Experimentos com interfaces, aplicações, autenticação, banco de dados e dese
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/BALDI'S_BASICS-ARQUIVO_ESCOLAR-7F1D1D?style=for-the-badge"/>
-
-<br/>
+<img src="./Baldis-Basics.webp" width="400" alt="Baldi no corredor de uma escola em Baldi's Basics" />
 
 <sub>Você encontrou um caderno misterioso... será que deveria abri-lo?</sub>
 
