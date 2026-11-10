@@ -79,17 +79,17 @@ Atividades e exercícios de Desenvolvimento de Sistemas, incluindo o projeto Map
 Uma experiência de terror em desenvolvimento. Um complexo de salas e corredores onde a tranquilidade começa a se transformar em algo estranho.
 
 </td>
-<td width="50%" colspan="2" valign="top">
-
-<h3 align="center">🌐 Projetos Web</h3>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 <div align="center">
+<h3 align="center">🌐 Projetos Web</h3>
 
 <img src="https://img.shields.io/badge/TECNOLOGIA-REACT-087EA4?style=for-the-badge"/>
 
-</div>
-
 Experimentos com interfaces, aplicações, autenticação, banco de dados e desenvolvimento web.
+</div>
 
 </td>
 </tr>
