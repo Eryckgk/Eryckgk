@@ -158,20 +158,14 @@ Experimentos com interfaces, aplicações, autenticação, banco de dados e dese
 
 <sub>Você encontrou um caderno misterioso... será que deveria abri-lo?</sub>
 
-<br/>
-
-<sub>🕵️ INTERROGATÓRIO ESCOLAR: responda às sete perguntas antes de conferir as pistas.</sub>
-
 </div>
 
 <details>
-<summary><b>📓 Caderno 1/7 — Identifique o professor</b></summary>
+<summary><b>📓 Abrir caderno secreto (1/7)</b></summary>
 
 <br/>
 
 <div align="center">
-
-**Pergunta 1:** Quem é o professor que percorre a escola atrás dos alunos?
 
 ### 🏫 BOLETIM ESCOLAR — BALDI'S BASICS
 
@@ -194,97 +188,6 @@ Baldi está de olho nos seus commits...
 <img src="./baldi-basics-rubbing-hands-hybanzdlkz0ygv5e.gif" width="220" alt="Baldi esfregando as mãos" />
 
 </div>
-
-<details>
-<summary>🔐 Conferir a resposta</summary>
-
-É o **Baldi**! Senha do caderno: **BALDI**.
-
-</details>
-
-</details>
-
-<details>
-<summary><b>📓 Caderno 2/7 — A missão do aluno</b></summary>
-
-**Pergunta 2:** O que você precisa encontrar e completar pela escola para avançar?
-
-<details>
-<summary>🔐 Conferir a resposta</summary>
-
-Os **cadernos**! Senha do caderno: **CADERNOS**.
-
-</details>
-
-</details>
-
-<details>
-<summary><b>📓 Caderno 3/7 — A ferramenta do professor</b></summary>
-
-**Pergunta 3:** Que objeto o Baldi carrega e usa para marcar o ritmo dos passos?
-
-<details>
-<summary>🔐 Conferir a resposta</summary>
-
-A **régua**! Senha do caderno: **REGUA**.
-
-</details>
-
-</details>
-
-<details>
-<summary><b>📓 Caderno 4/7 — A regra do corredor</b></summary>
-
-**Pergunta 4:** Quem pode mandar o aluno para a detenção quando ele quebra as regras da escola?
-
-<details>
-<summary>🔐 Conferir a resposta</summary>
-
-O **Diretor**! Senha do caderno: **DIRETOR**.
-
-</details>
-
-</details>
-
-<details>
-<summary><b>📓 Caderno 5/7 — Pula-pula no corredor</b></summary>
-
-**Pergunta 5:** Qual personagem desafia o aluno para pular corda?
-
-<details>
-<summary>🔐 Conferir a resposta</summary>
-
-A **Playtime**! Senha do caderno: **PLAYTIME**.
-
-</details>
-
-</details>
-
-<details>
-<summary><b>📓 Caderno 6/7 — Bloqueio no caminho</b></summary>
-
-**Pergunta 6:** Quem bloqueia a passagem e pede um item para deixar o aluno passar?
-
-<details>
-<summary>🔐 Conferir a resposta</summary>
-
-O **Bully**! Senha do caderno: **BULLY**.
-
-</details>
-
-</details>
-
-<details>
-<summary><b>📓 Caderno 7/7 — A última pergunta</b></summary>
-
-**Pergunta 7:** No jogo clássico, quantos cadernos o aluno precisa reunir para tentar chegar à saída?
-
-<details>
-<summary>🔐 Conferir a resposta</summary>
-
-**Sete cadernos!** Senha final: **SETE**. Interrogatório concluído — agora cuidado com o corredor!
-
-</details>
 
 </details>
 
