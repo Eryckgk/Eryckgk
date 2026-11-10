@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:991B1B,45:40213E,100:172554&height=190&section=header&text=Eryck%20Fernando&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=62&descSize=17"/>
 
@@ -6,15 +6,10 @@
 
 <img src="https://img.shields.io/badge/STATUS-APRENDENDO-16A34A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FOCO-DESENVOLVIMENTO%20WEB-1E3A8A?style=for-the-badge"/>
-
-<br/>
-
 <img src="https://img.shields.io/badge/INTERESSES-PROGRAMAÇÃO-374151?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PAÍS-BRASIL-15803D?style=for-the-badge"/>
 
 </div>
-
-<br/>
 
 ---
 
@@ -25,14 +20,6 @@
 - 🚀 Interessado em desenvolvimento web e back-end
 - 📼 Curioso pelo universo do terror analógico e criação de histórias
 - 🧠 Construindo meu futuro na tecnologia, um projeto de cada vez!
-
-<div align="center">
-
-<img src="./giphy.gif" width="220" alt="Baldi fazendo sinal de silêncio" />
-
-<sub>Não esqueça dos seus projetos... não reclame!</sub>
-
-</div>
 
 ---
 
@@ -46,7 +33,14 @@
 
 ---
 
-## 📂 Projetos
+## 📖 Atualmente estudando
+
+- JavaScript
+- Desenvolvimento web e back-end
+
+---
+
+## 🌟 Projetos em destaque
 
 <table>
 <tr>
@@ -83,22 +77,18 @@ Uma experiência de terror em desenvolvimento. Um complexo de salas e corredores
 <td colspan="2" valign="top">
 
 <div align="center">
-<h3 align="center">🌐 Projetos Web</h3>
+
+<h3>🌐 Projetos Web</h3>
 
 <img src="https://img.shields.io/badge/TECNOLOGIA-REACT-087EA4?style=for-the-badge"/>
 
 Experimentos com interfaces, aplicações, autenticação, banco de dados e desenvolvimento web.
+
 </div>
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-<img src="./200.gif" width="220" alt="Baldi comemorando uma cena de cinema" />
-
-</div>
 
 ---
 
@@ -115,20 +105,56 @@ Experimentos com interfaces, aplicações, autenticação, banco de dados e dese
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eryckgk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=FFFFFF&hide_title=true" alt="Linguagens mais usadas por Eryckgk" />
 
 <p>
-      <img width="90%" src="https://streak-stats.demolab.com/?user=Eryckgk&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=EF4444&currStreakLabel=60A5FA&locale=pt" alt="Sequência de contribuições no GitHub" />
+<img width="90%" src="https://streak-stats.demolab.com/?user=Eryckgk&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=EF4444&currStreakLabel=60A5FA&locale=pt" alt="Sequência de contribuições no GitHub" />
 </p>
 
 </div>
 
 ---
 
-## 📚 Um segredo da escola...
+## 🐍 Snake de contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Eryckgk/Eryckgk/output/github-contribution-grid-snake.svg" alt="Animação de uma cobra percorrendo o gráfico de contribuições do GitHub" />
+
+</div>
+
+---
+
+## 💻 Ambiente de desenvolvimento
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/EDITOR-VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/VERSIONAMENTO-GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/REPOSITÓRIOS-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+
+---
+
+## 📚 Easter eggs do Baldi's Basics
 
 <div align="center">
 
 <img src="./Baldis-Basics.webp" width="400" alt="Baldi no corredor de uma escola em Baldi's Basics" />
 
+<br/>
+
 <sub>Você encontrou um caderno misterioso... será que deveria abri-lo?</sub>
+
+<br/><br/>
+
+<img src="./200.gif" width="220" alt="Baldi comemorando uma cena de cinema" />
+
+<br/>
+
+<img src="./giphy.gif" width="220" alt="Baldi fazendo sinal de silêncio" />
+
+<br/>
+
+<sub>Não esqueça dos seus projetos... não reclame!</sub>
 
 </div>
 
@@ -155,11 +181,9 @@ Não esqueça de fazer sua lição de casa!
 
 Baldi está de olho nos seus commits...
 
-<div align="center">
+<br/>
 
 <img src="./baldi-basics-rubbing-hands-hybanzdlkz0ygv5e.gif" width="220" alt="Baldi esfregando as mãos" />
-
-</div>
 
 </div>
 
@@ -174,25 +198,25 @@ Baldi está de olho nos seus commits...
 Um espaço especial por aqui é para ela 🤍
 
 <a href="https://www.instagram.com/Isabellaysas/">
-  <img src="https://img.shields.io/badge/Instagram-@Isabellaysas-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram da Isabellaysas"/>
+<img src="https://img.shields.io/badge/Instagram-@Isabellaysas-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram da Isabellaysas"/>
 </a>
 
 </div>
 
 ---
 
+## 🎬 Rodapé animado
+
 <div align="center">
 
-##  Obrigado pela visita!
+### Obrigado pela visita!
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=500&lines=Aprendendo%2C+criando+e+evoluindo.;O+pr%C3%B3ximo+projeto+come%C3%A7a+agora!"/>
 
 <br/>
 
 <a href="https://github.com/Eryckgk">
-
 <img src="https://img.shields.io/badge/MEU_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 <br/><br/>
