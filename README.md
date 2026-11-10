@@ -23,7 +23,6 @@
 - 🎓 Estudante e desenvolvedor em formação
 - 💻 Aprendendo novas tecnologias e desenvolvendo projetos
 - 🚀 Interessado em desenvolvimento web e back-end
-- 🎮 Gamer nas horas vagas e apaixonado por jogos
 - 📼 Curioso pelo universo do terror analógico e criação de histórias
 - 🧠 Construindo meu futuro na tecnologia, um projeto de cada vez!
 
