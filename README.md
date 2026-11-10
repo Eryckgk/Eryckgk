@@ -68,21 +68,6 @@ Atividades e exercícios de Desenvolvimento de Sistemas, incluindo o projeto Map
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">📼 O VAZIO</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PROJETO-ARG-7F1D1D?style=for-the-badge"/>
-
-</div>
-
-Um universo de terror analógico construído com fitas, documentos, mistérios e registros inexplicáveis.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 <h3 align="center">🎮 ALONE, BUT...</h3>
 
 <div align="center">
@@ -94,7 +79,7 @@ Um universo de terror analógico construído com fitas, documentos, mistérios e
 Uma experiência de terror em desenvolvimento. Um complexo de salas e corredores onde a tranquilidade começa a se transformar em algo estranho.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" colspan="2" valign="top">
 
 <h3 align="center">🌐 Projetos Web</h3>
 
