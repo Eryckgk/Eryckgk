@@ -116,7 +116,7 @@ Experimentos com interfaces, aplicações, autenticação, banco de dados e dese
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Eryckgk/Eryckgk/output/github-contribution-grid-snake.svg" alt="Animação de uma cobra percorrendo o gráfico de contribuições do GitHub" />
+<img src="https://github.com/Eryckgk/Eryckgk/raw/refs/heads/output/github-contribution-grid-snake.svg" alt="Animação de uma cobra percorrendo o gráfico de contribuições do GitHub" />
 
 </div>
 
