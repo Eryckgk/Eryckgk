@@ -27,6 +27,14 @@
 - 📼 Curioso pelo universo do terror analógico e criação de histórias
 - 🧠 Construindo meu futuro na tecnologia, um projeto de cada vez!
 
+<div align="center">
+
+<img src="./giphy.gif" width="220" alt="Baldi fazendo sinal de silêncio" />
+
+<sub>Não esqueça dos seus projetos... não reclame!</sub>
+
+</div>
+
 ---
 
 ## 🛠️ Tecnologias e ferramentas
@@ -102,6 +110,12 @@ Experimentos com interfaces, aplicações, autenticação, banco de dados e dese
 </tr>
 </table>
 
+<div align="center">
+
+<img src="./200.gif" width="220" alt="Baldi comemorando uma cena de cinema" />
+
+</div>
+
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -157,9 +171,29 @@ Não esqueça de fazer sua lição de casa!
 
 Baldi está de olho nos seus commits...
 
+<div align="center">
+
+<img src="./baldi-basics-rubbing-hands-hybanzdlkz0ygv5e.gif" width="220" alt="Baldi esfregando as mãos" />
+
+</div>
+
 </div>
 
 </details>
+
+---
+
+## 💌 Meu cantinho especial
+
+<div align="center">
+
+Um espaço especial por aqui é para ela 🤍
+
+<a href="https://www.instagram.com/Isabellaysas/">
+  <img src="https://img.shields.io/badge/Instagram-@Isabellaysas-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram da Isabellaysas"/>
+</a>
+
+</div>
 
 ---
 
@@ -181,7 +215,6 @@ Baldi está de olho nos seus commits...
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,50:40213E,100:991B1B&height=110&section=footer"/>
 
-<sub>Feito por Eryckgk • 2026
-      @Isabellaysas 🤍</sub>
+<sub>Feito por Eryckgk • 2026</sub>
 
 </div>
