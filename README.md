@@ -21,6 +21,14 @@
 - 📼 Curioso pelo universo do terror analógico e criação de histórias
 - 🧠 Construindo meu futuro na tecnologia, um projeto de cada vez!
 
+<div align="center">
+
+<img src="./giphy.gif" width="220" alt="Baldi fazendo sinal de silêncio" />
+
+<sub>Não esqueça dos seus projetos... não reclame!</sub>
+
+</div>
+
 ---
 
 ## 🛠️ Tecnologias e ferramentas
@@ -90,6 +98,12 @@ Experimentos com interfaces, aplicações, autenticação, banco de dados e dese
 </tr>
 </table>
 
+<div align="center">
+
+<img src="./200.gif" width="220" alt="Baldi comemorando uma cena de cinema" />
+
+</div>
+
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -143,18 +157,6 @@ Experimentos com interfaces, aplicações, autenticação, banco de dados e dese
 <br/>
 
 <sub>Você encontrou um caderno misterioso... será que deveria abri-lo?</sub>
-
-<br/><br/>
-
-<img src="./200.gif" width="220" alt="Baldi comemorando uma cena de cinema" />
-
-<br/>
-
-<img src="./giphy.gif" width="220" alt="Baldi fazendo sinal de silêncio" />
-
-<br/>
-
-<sub>Não esqueça dos seus projetos... não reclame!</sub>
 
 </div>
 
